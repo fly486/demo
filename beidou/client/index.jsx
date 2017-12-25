@@ -6,7 +6,7 @@ export default class View extends React.Component {
   render() {
     return (
       <div>
-        <h1>Simple 123 456asd asd</h1>
+        <h1>Simple</h1>
         <ul>
           <li>
             <a href="/static">Static Page</a>
